@@ -2,6 +2,10 @@
 
 A comprehensive healthcare platform built with Next.js that connects patients with verified doctors through secure video consultations. Features include appointment booking, credit-based payment system, admin dashboard, and real-time video calls.
 
+## 🎓 Academic Context
+
+This project was developed as part of the final year BCA (Bachelor of Computer Applications) academic curriculum. It demonstrates the practical implementation of full-stack development, cloud deployment, third-party API integration, and real-time communication features, fulfilling the academic requirements for the major project submission.
+
 ## 🚀 Features
 
 ### For Patients
